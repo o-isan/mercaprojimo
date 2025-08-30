@@ -1,7 +1,7 @@
 # Mercaprójimo
-Se trata una práctica en la que los usuarios pueden ponerse en contacto para comprar o vender objetos de segunda mano.
+Se trata una práctica que hice en el grado. Los usuarios pueden ponerse en contacto para comprar o vender objetos de segunda mano.
 
-La lógica consiste en que el usuario particular publica el anuncio, y de la misma forma en que puede publicar su anuncio, puede contactar con otros usuarios que han publicado un anuncio.
+La lógica consiste en que el usuario particular publica el anuncio, y de la misma forma en que puede publicar su anuncio, puede contactar con otros usuarios que han publicado un anuncio mostrando su interés por el producto.
 
 La comunicación se realiza en la propia web a través de chat.
 
